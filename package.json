@@ -1,0 +1,12 @@
+{
+  "name": "DisruptTheDistrictBeanstalk",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "aws-sdk": "^2.200.0",
+    "restify": "^6.3.4"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
